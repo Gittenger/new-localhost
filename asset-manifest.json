@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.js": "/static/js/main.66e555d4.chunk.js",
+    "main.js.map": "/static/js/main.66e555d4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.557a9a42.js",
+    "runtime-main.js.map": "/static/js/runtime-main.557a9a42.js.map",
+    "static/js/2.c7a2989a.chunk.js": "/static/js/2.c7a2989a.chunk.js",
+    "static/js/2.c7a2989a.chunk.js.map": "/static/js/2.c7a2989a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f5b306d724020b2eb8a7abc9345bb02a.js": "/precache-manifest.f5b306d724020b2eb8a7abc9345bb02a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.c7a2989a.chunk.js.LICENSE.txt": "/static/js/2.c7a2989a.chunk.js.LICENSE.txt",
+    "static/media/github.png": "/static/media/github.57e284a8.png",
+    "static/media/gmail.png": "/static/media/gmail.7b1fb045.png",
+    "static/media/google.png": "/static/media/google.f064c739.png",
+    "static/media/kat.png": "/static/media/kat.4b52ec44.png",
+    "static/media/linkedin.png": "/static/media/linkedin.ac363314.png",
+    "static/media/mdn.png": "/static/media/mdn.6a428354.png",
+    "static/media/medium.png": "/static/media/medium.00b9fb10.png",
+    "static/media/metallum.png": "/static/media/metallum.8ef9158d.png",
+    "static/media/udemy.png": "/static/media/udemy.b577d9af.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.557a9a42.js",
+    "static/js/2.c7a2989a.chunk.js",
+    "static/js/main.66e555d4.chunk.js"
+  ]
+}
